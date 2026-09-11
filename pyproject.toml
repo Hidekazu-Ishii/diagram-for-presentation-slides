@@ -1,10 +1,10 @@
 [project]
-name = "lab-template-python"
+name = "diagram-for-presentation-slides"
 version = "0.1.0"
-description = "Add your description here"
+description = "Create a vector diagram."
 readme = "README.md"
 authors = [
-    { name = "Koki Yamada", email = "k-yamada@go.tuat.ac.jp" }
+    { name = "Hidekazu Ishii", email = "" }
 ]
 requires-python = ">=3.12"
 dependencies = []
