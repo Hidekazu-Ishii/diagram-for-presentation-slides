@@ -7,7 +7,14 @@ authors = [
     { name = "Hidekazu Ishii", email = "" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "japanize-matplotlib>=1.1.3",
+    "jaxtyping>=0.3.11",
+    "matplotlib>=3.11.1",
+    "networkx>=3.6.1",
+    "numpy>=2.5.3",
+    "scipy>=1.18.1",
+]
 
 [build-system]
 requires = ["uv_build>=0.9.4,<0.10.0"]
